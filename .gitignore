@@ -41,5 +41,5 @@ Thumbs.db
 obj/
 bin/
 .vs/
-*.sln
+#*.sln
 .driveupload
